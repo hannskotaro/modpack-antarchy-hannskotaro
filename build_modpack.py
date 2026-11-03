@@ -361,12 +361,8 @@ def main():
                         arcname = file_path.relative_to(Path(".")).as_posix()
                         zf.write(file_path, arcname)
 
-    mrpack_path = Path("Antarchy-RPG-1.21.1-Fabric-v2.mrpack")
+    mrpack_path = Path("Antarchy-RPG-1.21.1-Fabric.mrpack")
     write_mrpack(mrpack_path)
-    try:
-        write_mrpack(Path("Antarchy-RPG-1.21.1-Fabric.mrpack"))
-    except PermissionError:
-        pass
 
     print(f"\nSuccessfully resolved {len(files_list)} mods and generated {mrpack_path.name}!")
 
