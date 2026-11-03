@@ -1,0 +1,6 @@
+{
+  "targetHoldAttack": true,
+  "upswingMultiplier": 0.5,
+  "allowFastAttacks": true,
+  "swingThruGrass": true
+}

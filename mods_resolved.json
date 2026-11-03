@@ -1,0 +1,978 @@
+[
+  {
+    "title": "3D Skin Layers",
+    "slug": "3dskinlayers",
+    "version": "1.11.4",
+    "filename": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+    "description": "Render the player skin layer in 3d!",
+    "url": "https://modrinth.com/mod/3dskinlayers"
+  },
+  {
+    "title": "AdventureZ",
+    "slug": "adventurez",
+    "version": "1.5.2+1.21.1",
+    "filename": "adventurez-1.5.2.jar",
+    "description": "adds a new endboss and other creatures",
+    "url": "https://modrinth.com/mod/adventurez"
+  },
+  {
+    "title": "AmbientSounds",
+    "slug": "ambientsounds",
+    "version": "6.3.11",
+    "filename": "AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
+    "description": "#listentonature",
+    "url": "https://modrinth.com/mod/ambientsounds"
+  },
+  {
+    "title": "Antarchy",
+    "slug": "antarchy",
+    "version": "2.3.1+1.21.1-fabric",
+    "filename": "antarchy-2.3.1+1.21.1-fabric.jar",
+    "description": "Adding 45+ mobs, 8+ bosses, 3 fleshed out dimensions, and more",
+    "url": "https://modrinth.com/mod/antarchy"
+  },
+  {
+    "title": "Anthology: Time & Space API",
+    "slug": "anthology",
+    "version": "1.0.3+1.21.1-fabric",
+    "filename": "anthology-1.0.3+1.21.1-fabric.jar",
+    "description": "Library/API for messing with time and space",
+    "url": "https://modrinth.com/mod/anthology"
+  },
+  {
+    "title": "AntOS Computer | Quests + Guidebook",
+    "slug": "antos",
+    "version": "1.6.3",
+    "filename": "antos-fabric-1.21.1-1.6.3.jar",
+    "description": "An immersive and fully functioning computer that provides an anternative to the stale and overused quest book and guide book",
+    "url": "https://modrinth.com/mod/antos"
+  },
+  {
+    "title": "AppleSkin",
+    "slug": "appleskin",
+    "version": "3.0.6+mc1.21",
+    "filename": "appleskin-fabric-mc1.21-3.0.6.jar",
+    "description": "Food/hunger-related HUD improvements",
+    "url": "https://modrinth.com/mod/appleskin"
+  },
+  {
+    "title": "Architectury API",
+    "slug": "architectury-api",
+    "version": "13.0.11+fabric",
+    "filename": "architectury-13.0.11-fabric.jar",
+    "description": "An intermediary api aimed to ease developing multiplatform mods.",
+    "url": "https://modrinth.com/mod/architectury-api"
+  },
+  {
+    "title": "Artifacts",
+    "slug": "artifacts",
+    "version": "13.2.4",
+    "filename": "artifacts-fabric-13.2.4.jar",
+    "description": "Adds various treasure items that can be found through exploration",
+    "url": "https://modrinth.com/mod/artifacts"
+  },
+  {
+    "title": "AttributeFix",
+    "slug": "attributefix",
+    "version": "21.1.3",
+    "filename": "attributefix-fabric-1.21.1-21.1.3.jar",
+    "description": "Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!",
+    "url": "https://modrinth.com/mod/attributefix"
+  },
+  {
+    "title": "Balm",
+    "slug": "balm",
+    "version": "21.0.67+fabric-1.21.1",
+    "filename": "balm-fabric-1.21.1-21.0.67.jar",
+    "description": "Abstraction Layer for Multi-Loader Mods",
+    "url": "https://modrinth.com/mod/balm"
+  },
+  {
+    "title": "Better Combat",
+    "slug": "better-combat",
+    "version": "2.4.0+1.21.1-fabric",
+    "filename": "bettercombat-fabric-2.4.0+1.21.1.jar",
+    "description": "⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons.",
+    "url": "https://modrinth.com/mod/better-combat"
+  },
+  {
+    "title": "Bookshelf",
+    "slug": "bookshelf-lib",
+    "version": "21.1.81",
+    "filename": "bookshelf-fabric-1.21.1-21.1.81.jar",
+    "description": "An open source library for other mods!",
+    "url": "https://modrinth.com/mod/bookshelf-lib"
+  },
+  {
+    "title": "Bosses of Mass Destruction",
+    "slug": "bosses-of-mass-destruction",
+    "version": "1.10.2-1.21.1",
+    "filename": "BOMD-1.10.2-1.21.1.jar",
+    "description": "Adds boss fights to minecraft",
+    "url": "https://modrinth.com/mod/bosses-of-mass-destruction"
+  },
+  {
+    "title": "Cardinal Components API",
+    "slug": "cardinal-components-api",
+    "version": "6.1.3",
+    "filename": "cardinal-components-api-6.1.3.jar",
+    "description": "A data attachment API that is easy, modular, and extremely fast.",
+    "url": "https://modrinth.com/mod/cardinal-components-api"
+  },
+  {
+    "title": "ChoiceTheorem's Overhauled Village",
+    "slug": "ct-overhaul-village",
+    "version": "3.6.3",
+    "filename": "[Fabric]ctov-3.6.3.jar",
+    "description": "Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.",
+    "url": "https://modrinth.com/mod/ct-overhaul-village"
+  },
+  {
+    "title": "Cloth Config API",
+    "slug": "cloth-config",
+    "version": "15.0.140+fabric",
+    "filename": "cloth-config-15.0.140-fabric.jar",
+    "description": "Configuration Library for Minecraft Mods",
+    "url": "https://modrinth.com/mod/cloth-config"
+  },
+  {
+    "title": "Clumps",
+    "slug": "clumps",
+    "version": "19.0.0.1",
+    "filename": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+    "description": "Clumps XP orbs together to reduce lag",
+    "url": "https://modrinth.com/mod/clumps"
+  },
+  {
+    "title": "Combat Roll",
+    "slug": "combat-roll",
+    "version": "2.0.6+1.21.1-fabric",
+    "filename": "combat_roll-fabric-2.0.6+1.21.1.jar",
+    "description": "🧶 Adds combat roll ability, with related attributes and enchantments.",
+    "url": "https://modrinth.com/mod/combat-roll"
+  },
+  {
+    "title": "Complementary Shaders - Reimagined",
+    "slug": "complementary-reimagined",
+    "version": "r5.9.3",
+    "filename": "ComplementaryReimagined_r5.9.3.zip",
+    "description": "Artistic, optimized shaderpack tailored for Minecraft",
+    "url": "https://modrinth.com/shader/complementary-reimagined"
+  },
+  {
+    "title": "Controlling",
+    "slug": "controlling",
+    "version": "19.0.5",
+    "filename": "Controlling-fabric-1.21.1-19.0.5.jar",
+    "description": "Adds a search bar to the Key-Bindings menu",
+    "url": "https://modrinth.com/mod/controlling"
+  },
+  {
+    "title": "CreativeCore",
+    "slug": "creativecore",
+    "version": "2.13.48",
+    "filename": "CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+    "description": "A core mod",
+    "url": "https://modrinth.com/mod/creativecore"
+  },
+  {
+    "title": "Creeper Overhaul",
+    "slug": "creeper-overhaul",
+    "version": "4.0.6",
+    "filename": "CreeperOverhaul-fabric-1.21.1-4.0.6.jar",
+    "description": "A mod which overhauls the vanilla creepers!",
+    "url": "https://modrinth.com/mod/creeper-overhaul"
+  },
+  {
+    "title": "Cristel Lib",
+    "slug": "cristel-lib",
+    "version": "fabric-1.21.1-3.1.7",
+    "filename": "cristellib-fabric-1.21.1-3.1.7.jar",
+    "description": "A Library mod for easy structure config and runtime datapacks.",
+    "url": "https://modrinth.com/mod/cristel-lib"
+  },
+  {
+    "title": "Dungeons and Taverns",
+    "slug": "dungeons-and-taverns",
+    "version": "v4.4.4+mod",
+    "filename": "dungeons-and-taverns-v4.4.4.jar",
+    "description": "A Structure Datapack adding dungeons, taverns and other structures to find while you explore the world.",
+    "url": "https://modrinth.com/mod/dungeons-and-taverns"
+  },
+  {
+    "title": "Eating Animation",
+    "slug": "eating-animation",
+    "version": "1.9.72",
+    "filename": "eating-animation-1.21+1.9.72.jar",
+    "description": "A mod that adds sprite animations for edible and drinkable items.",
+    "url": "https://modrinth.com/mod/eating-animation"
+  },
+  {
+    "title": "EMI",
+    "slug": "emi",
+    "version": "1.1.24+1.21.1+fabric",
+    "filename": "emi-1.1.24+1.21.1+fabric.jar",
+    "description": "A featureful and accessible item and recipe viewer",
+    "url": "https://modrinth.com/mod/emi"
+  },
+  {
+    "title": "EMI Loot",
+    "slug": "emi-loot",
+    "version": "0.7.9+1.21+fabric",
+    "filename": "emi_loot-0.7.9+1.21+fabric.jar",
+    "description": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
+    "url": "https://modrinth.com/mod/emi-loot"
+  },
+  {
+    "title": "Enchantment Descriptions",
+    "slug": "enchantment-descriptions",
+    "version": "21.1.11",
+    "filename": "enchdesc-fabric-1.21.1-21.1.11.jar",
+    "description": "Provides a way to get enchantment descriptions from enchanted books.",
+    "url": "https://modrinth.com/mod/enchantment-descriptions"
+  },
+  {
+    "title": "Entity Culling",
+    "slug": "entityculling",
+    "version": "1.11.3",
+    "filename": "entityculling-fabric-1.11.3-mc1.21.1.jar",
+    "description": "Using async path-tracing to hide Block-/Entities that are not visible",
+    "url": "https://modrinth.com/mod/entityculling"
+  },
+  {
+    "title": "Essential Mod",
+    "slug": "essential",
+    "version": "1.5.2",
+    "filename": "Essential_1-5-2_fabric_1-21-1.jar",
+    "description": "Enhance your Minecraft with one simple mod. Host worlds for free, chat with friends, and so much more!",
+    "url": "https://modrinth.com/mod/essential"
+  },
+  {
+    "title": "Explorer's Compass",
+    "slug": "explorers-compass",
+    "version": "1.21.1-2.6.0-fabric",
+    "filename": "ExplorersCompass-1.21.1-2.6.0-fabric.jar",
+    "description": "Allows you to locate structures anywhere in the world.",
+    "url": "https://modrinth.com/mod/explorers-compass"
+  },
+  {
+    "title": "Explorify",
+    "slug": "explorify",
+    "version": "v1.6.5",
+    "filename": "Explorify v1.6.5.mod.jar",
+    "description": "A simplistic, vanilla-friendly collection of new structures.",
+    "url": "https://modrinth.com/mod/explorify"
+  },
+  {
+    "title": "Fabric API",
+    "slug": "fabric-api",
+    "version": "0.116.17+1.21.1",
+    "filename": "fabric-api-0.116.17+1.21.1.jar",
+    "description": "Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.",
+    "url": "https://modrinth.com/mod/fabric-api"
+  },
+  {
+    "title": "Fabric Language Kotlin",
+    "slug": "fabric-language-kotlin",
+    "version": "1.14.2+kotlin.2.4.21",
+    "filename": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+    "description": "This is a mod that enables usage of the Kotlin programming language for Fabric mods.",
+    "url": "https://modrinth.com/mod/fabric-language-kotlin"
+  },
+  {
+    "title": "Farmer's Delight Refabricated",
+    "slug": "farmers-delight-refabricated",
+    "version": "1.21.1-3.3.6",
+    "filename": "FarmersDelight-1.21.1-3.3.6+refabricated.jar",
+    "description": "Modern Fabric port of the cooking and farming mod, \"Farmer's Delight\"",
+    "url": "https://modrinth.com/mod/farmers-delight-refabricated"
+  },
+  {
+    "title": "FerriteCore",
+    "slug": "ferrite-core",
+    "version": "7.0.3-fabric",
+    "filename": "ferritecore-7.0.3-fabric.jar",
+    "description": "Memory usage optimizations",
+    "url": "https://modrinth.com/mod/ferrite-core"
+  },
+  {
+    "title": "Forge Config API Port",
+    "slug": "forge-config-api-port",
+    "version": "v21.1.6-1.21.1-Fabric",
+    "filename": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+    "description": "NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.",
+    "url": "https://modrinth.com/mod/forge-config-api-port"
+  },
+  {
+    "title": "Frostiful",
+    "slug": "frostiful",
+    "version": "2.3.2+1.21.1",
+    "filename": "frostiful-2.3.2+1.21.1.jar",
+    "description": "A Vanilla+ Freezing Temperature Mod - sister mod of Scorchful!",
+    "url": "https://modrinth.com/mod/frostiful"
+  },
+  {
+    "title": "Fzzy Config",
+    "slug": "fzzy-config",
+    "version": "0.7.7+1.21",
+    "filename": "fzzy_config-0.7.7+1.21.jar",
+    "description": "Config API with automatic GUIs, powerful validation options, server-client sync, and more!",
+    "url": "https://modrinth.com/mod/fzzy-config"
+  },
+  {
+    "title": "Geckolib",
+    "slug": "geckolib",
+    "version": "4.9.3",
+    "filename": "geckolib-fabric-1.21.1-4.9.3.jar",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more!",
+    "url": "https://modrinth.com/mod/geckolib"
+  },
+  {
+    "title": "Guard Villagers (Fabric/Quilt)",
+    "slug": "guard-villagers-fabricquilt",
+    "version": "2.1.2-1.21.1",
+    "filename": "guardvillagers-2.1.2-1.21.1.jar",
+    "description": "Guards that help with village pest control",
+    "url": "https://modrinth.com/mod/guard-villagers-fabricquilt"
+  },
+  {
+    "title": "Illager Invasion",
+    "slug": "illager-invasion",
+    "version": "v21.1.6-1.21.1-Fabric",
+    "filename": "IllagerInvasion-v21.1.6-1.21.1-Fabric.jar",
+    "description": "The illagers are back! Be ready to fight new foes. A port of Illager Expansion.",
+    "url": "https://modrinth.com/mod/illager-invasion"
+  },
+  {
+    "title": "ImmediatelyFast",
+    "slug": "immediatelyfast",
+    "version": "1.6.15+1.21.1-fabric",
+    "filename": "ImmediatelyFast-Fabric-1.6.15+1.21.1.jar",
+    "description": "Speed up immediate mode rendering in Minecraft",
+    "url": "https://modrinth.com/mod/immediatelyfast"
+  },
+  {
+    "title": "Integrated API",
+    "slug": "integrated-api",
+    "version": "1.9.1",
+    "filename": "integrated_api-fabric-1.21.1-1.9.1.jar",
+    "description": "Library mod for the Integrated Structures series",
+    "url": "https://modrinth.com/mod/integrated-api"
+  },
+  {
+    "title": "Inventory Profiles Next",
+    "slug": "inventory-profiles-next",
+    "version": "fabric-1.21.1-2.2.6",
+    "filename": "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
+    "description": "Take control over your inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.",
+    "url": "https://modrinth.com/mod/inventory-profiles-next"
+  },
+  {
+    "title": "Iris Shaders",
+    "slug": "iris",
+    "version": "1.8.14-beta.1+1.21.1-fabric",
+    "filename": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+    "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs",
+    "url": "https://modrinth.com/mod/iris"
+  },
+  {
+    "title": "Jade 🔍",
+    "slug": "jade",
+    "version": "15.10.6+fabric",
+    "filename": "Jade-1.21.1-Fabric-15.10.6.jar",
+    "description": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)",
+    "url": "https://modrinth.com/mod/jade"
+  },
+  {
+    "title": "LambDynamicLights - Dynamic Lights",
+    "slug": "lambdynamiclights",
+    "version": "4.8.11+1.21.1",
+    "filename": "lambdynamiclights-4.8.11+1.21.1.jar",
+    "description": "Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod.",
+    "url": "https://modrinth.com/mod/lambdynamiclights"
+  },
+  {
+    "title": "libIPN",
+    "slug": "libipn",
+    "version": "fabric-1.21.1-6.6.3",
+    "filename": "libIPN-fabric-1.21.1-6.6.3.jar",
+    "description": "Inventory Profiles Next GUI/Config library",
+    "url": "https://modrinth.com/mod/libipn"
+  },
+  {
+    "title": "LibZ",
+    "slug": "libz",
+    "version": "1.2.0+1.21.1",
+    "filename": "libz-1.2.0.jar",
+    "description": "Open source library for a couple of Globox_Z mods",
+    "url": "https://modrinth.com/mod/libz"
+  },
+  {
+    "title": "Lithium",
+    "slug": "lithium",
+    "version": "mc1.21.1-0.15.4-fabric",
+    "filename": "lithium-fabric-0.15.4+mc1.21.1.jar",
+    "description": "No-compromises game logic optimization mod, useful for both single-player games and multi-player servers.",
+    "url": "https://modrinth.com/mod/lithium"
+  },
+  {
+    "title": "Lithostitched",
+    "slug": "lithostitched",
+    "version": "1.8.1-fabric-21.1",
+    "filename": "lithostitched-1.8.1-fabric-21.1.jar",
+    "description": "Library mod with new configurability and compatibility enhancements for worldgen",
+    "url": "https://modrinth.com/mod/lithostitched"
+  },
+  {
+    "title": "Lootr",
+    "slug": "lootr",
+    "version": "1.21.1-1.11.38.127",
+    "filename": "lootr-fabric-1.21.1-1.11.38.127.jar",
+    "description": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
+    "url": "https://modrinth.com/mod/lootr"
+  },
+  {
+    "title": "Medieval Buildings",
+    "slug": "medieval-buildings",
+    "version": "1.21.1",
+    "filename": "medieval_buildings-1.21.1-1.1.1-fabric.jar",
+    "description": "Add exciting medieval buildings with hidden enemies and treasures to the world!",
+    "url": "https://modrinth.com/mod/medieval-buildings"
+  },
+  {
+    "title": "Medieval Buildings [End Edition]",
+    "slug": "medieval-buildings-end-edition",
+    "version": "1.0.4",
+    "filename": "medieval_buildings_end_edition-1.21.1-1.0.4-fabric.jar",
+    "description": "New incredible medieval-style structures for the End!",
+    "url": "https://modrinth.com/mod/medieval-buildings-end-edition"
+  },
+  {
+    "title": "Medieval Music",
+    "slug": "medieval-music",
+    "version": "1.21-2.1",
+    "filename": "zmedievalmusic-fabric-1.21-2.1.jar",
+    "description": "Royalty-free medieval soundtracks by Alexander Nakarada",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/medieval-music"
+  },
+  {
+    "title": "MidnightLib",
+    "slug": "midnightlib",
+    "version": "1.10.0+1.21.1-fabric",
+    "filename": "midnightlib-fabric-1.10.0+1.21.1.jar",
+    "description": "Common library providing a lightweight configuration system",
+    "url": "https://modrinth.com/mod/midnightlib"
+  },
+  {
+    "title": "MmmMmmMmmMmm",
+    "slug": "mmmmmmmmmmmm",
+    "version": "1.21-2.1.2",
+    "filename": "dummmmmmy-1.21-2.1.2-fabric.jar",
+    "description": "Target Dummy that show damage dealt and can be equipped with armor",
+    "url": "https://modrinth.com/mod/mmmmmmmmmmmm"
+  },
+  {
+    "title": "MNS - Moog's Nether Structures",
+    "slug": "mns-moogs-nether-structures",
+    "version": "3.1.1",
+    "filename": "MoogsNetherStructures-universal-1.21-3.1.1.jar",
+    "description": "loads of structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & more along the way!",
+    "url": "https://modrinth.com/mod/mns-moogs-nether-structures"
+  },
+  {
+    "title": "Mod Menu",
+    "slug": "modmenu",
+    "version": "11.0.5",
+    "filename": "modmenu-11.0.5.jar",
+    "description": "Adds a mod menu to view the list of mods you have installed.",
+    "url": "https://modrinth.com/mod/modmenu"
+  },
+  {
+    "title": "ModernFix",
+    "slug": "modernfix",
+    "version": "5.25.1+mc1.21.1",
+    "filename": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!",
+    "url": "https://modrinth.com/mod/modernfix"
+  },
+  {
+    "title": "Moog's Structure Lib (moogs_structures)",
+    "slug": "moogs-structure-lib",
+    "version": "3.4.2-fabric-1.21.1",
+    "filename": "MoogsStructureLib-fabric-1.21.1-3.4.2.jar",
+    "description": "This is a library mod for the Moogs Structure series",
+    "url": "https://modrinth.com/mod/moogs-structure-lib"
+  },
+  {
+    "title": "Moonlight Lib",
+    "slug": "moonlight",
+    "version": "1.21.1-3.7.2",
+    "filename": "moonlight-1.21.1-3.7.2-fabric.jar",
+    "description": "dynamic data pack and registration, villager activities, custom map marker and a lot more",
+    "url": "https://modrinth.com/mod/moonlight"
+  },
+  {
+    "title": "MVS - Moog's Voyager Structures",
+    "slug": "moogs-voyager-structures",
+    "version": "5.1.3",
+    "filename": "MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+    "description": "adds 130+ vanilla style structures to your world to bring it alive, using vanilla blocks. Includes dungeons and enemies to fight!",
+    "url": "https://modrinth.com/mod/moogs-voyager-structures"
+  },
+  {
+    "title": "Nature's Compass",
+    "slug": "natures-compass",
+    "version": "1.21.1-2.6.0-fabric",
+    "filename": "NaturesCompass-1.21.1-2.6.0-fabric.jar",
+    "description": "Allows you to locate biomes anywhere in the world.",
+    "url": "https://modrinth.com/mod/natures-compass"
+  },
+  {
+    "title": "Noisium",
+    "slug": "noisium",
+    "version": "2.3.0+mc1.21-1.21.1",
+    "filename": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+    "description": "Optimises worldgen performance for a better gameplay experience.",
+    "url": "https://modrinth.com/mod/noisium"
+  },
+  {
+    "title": "Not Enough Animations",
+    "slug": "not-enough-animations",
+    "version": "1.12.7",
+    "filename": "notenoughanimations-fabric-1.12.7-mc1.21.1.jar",
+    "description": "Bringing first-person animations to the third-person",
+    "url": "https://modrinth.com/mod/not-enough-animations"
+  },
+  {
+    "title": "playerAnimator",
+    "slug": "playeranimator",
+    "version": "2.0.4+1.21.1-fabric",
+    "filename": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
+    "description": "animate the player",
+    "url": "https://modrinth.com/mod/playeranimator"
+  },
+  {
+    "title": "Polymorph",
+    "slug": "polymorph",
+    "version": "1.2.0+1.21.1",
+    "filename": "polymorph-fabric-1.2.0+1.21.1.jar",
+    "description": "No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.",
+    "url": "https://modrinth.com/mod/polymorph"
+  },
+  {
+    "title": "Presence Footsteps",
+    "slug": "presence-footsteps",
+    "version": "1.11.2+1.21",
+    "filename": "PresenceFootsteps-1.11.2+1.21.jar",
+    "description": "..An Overly complicated Sound Mod...",
+    "url": "https://modrinth.com/mod/presence-footsteps"
+  },
+  {
+    "title": "Prickle",
+    "slug": "prickle",
+    "version": "21.1.11",
+    "filename": "prickle-fabric-1.21.1-21.1.11.jar",
+    "description": "Prickle is a JSON based configuration file format brought to Minecraft.",
+    "url": "https://modrinth.com/mod/prickle"
+  },
+  {
+    "title": "Puzzles Lib",
+    "slug": "puzzles-lib",
+    "version": "21.1.66",
+    "filename": "puzzleslib-v21.1.66-mc1.21.1+fabric.jar",
+    "description": "Why is it called Puzzles? That's the puzzle.",
+    "url": "https://modrinth.com/mod/puzzles-lib"
+  },
+  {
+    "title": "Resourceful Config",
+    "slug": "resourceful-config",
+    "version": "3.0.11",
+    "filename": "resourcefulconfig-fabric-1.21-3.0.11.jar",
+    "description": "Resourceful Config is a mod that allows for developers to make cross-platform configs",
+    "url": "https://modrinth.com/mod/resourceful-config"
+  },
+  {
+    "title": "Resourceful Lib",
+    "slug": "resourceful-lib",
+    "version": "3.0.12",
+    "filename": "resourcefullib-fabric-1.21-3.0.12.jar",
+    "description": "Resourceful Lib",
+    "url": "https://modrinth.com/mod/resourceful-lib"
+  },
+  {
+    "title": "Searchables",
+    "slug": "searchables",
+    "version": "1.0.2",
+    "filename": "Searchables-fabric-1.21.1-1.0.2.jar",
+    "description": "Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.",
+    "url": "https://modrinth.com/mod/searchables"
+  },
+  {
+    "title": "Simply Swords",
+    "slug": "simply-swords",
+    "version": "1.70.2-1.21.1",
+    "filename": "simplyswords-fabric-1.70.2-1.21.1.jar",
+    "description": "Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons!",
+    "url": "https://modrinth.com/mod/simply-swords"
+  },
+  {
+    "title": "Simply Tooltips",
+    "slug": "simply-tooltips",
+    "version": "0.1.5",
+    "filename": "SimplyTooltips-fabric-0.1.5.jar",
+    "description": "Modern data driven tooltip rendering",
+    "url": "https://modrinth.com/mod/simply-tooltips"
+  },
+  {
+    "title": "Sizeable Foliage",
+    "slug": "sizeable-foliage",
+    "version": "1.3.0",
+    "filename": "sizeable_foliage-fabric-1.21.1-1.3.0.jar",
+    "description": "Adding more sizes to existing foliage!",
+    "url": "https://modrinth.com/mod/sizeable-foliage"
+  },
+  {
+    "title": "Sodium",
+    "slug": "sodium",
+    "version": "mc1.21.1-0.8.13-fabric",
+    "filename": "sodium-fabric-0.8.13+mc1.21.1.jar",
+    "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
+    "url": "https://modrinth.com/mod/sodium"
+  },
+  {
+    "title": "Sophisticated Backpacks (Unoffical Fabric port)",
+    "slug": "sophisticated-backpacks-unoffical-fabric-port",
+    "version": "1.21.1-3.23.4.3.106",
+    "filename": "sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+    "description": "This is the Unofficial Fabric version of Sophisticated Backpacks.",
+    "url": "https://modrinth.com/mod/sophisticated-backpacks-unoffical-fabric-port"
+  },
+  {
+    "title": "Sophisticated Core (Unofficial Fabric port)",
+    "slug": "sophisticated-core-unofficial-fabric-port",
+    "version": "1.21.1-1.2.9.21.168",
+    "filename": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+    "description": "This is the Unofficial Fabric version of Sophisticated Core",
+    "url": "https://modrinth.com/mod/sophisticated-core-unofficial-fabric-port"
+  },
+  {
+    "title": "Sophisticated Storage (Unofficial Fabric port)",
+    "slug": "sophisticated-storage-unofficial-fabric-port",
+    "version": "1.21.1-1.3.7.9.139",
+    "filename": "sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+    "description": "This is the Unofficial Fabric version of Sophisticated Storage.",
+    "url": "https://modrinth.com/mod/sophisticated-storage-unofficial-fabric-port"
+  },
+  {
+    "title": "Sound Physics Remastered",
+    "slug": "sound-physics-remastered",
+    "version": "fabric-1.21.1-1.5.2",
+    "filename": "sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
+    "description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+    "url": "https://modrinth.com/mod/sound-physics-remastered"
+  },
+  {
+    "title": "spark",
+    "slug": "spark",
+    "version": "1.10.109-fabric",
+    "filename": "spark-1.10.109-fabric.jar",
+    "description": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+    "url": "https://modrinth.com/mod/spark"
+  },
+  {
+    "title": "Structory",
+    "slug": "structory",
+    "version": "1.3.17",
+    "filename": "Structory_26.2_v1.3.7.jar",
+    "description": "A seasonally updated and atmospheric structure mod with light lore",
+    "url": "https://modrinth.com/mod/structory"
+  },
+  {
+    "title": "Structory: Towers",
+    "slug": "structory-towers",
+    "version": "1.0.17",
+    "filename": "Structory_Towers_26.2_v1.0.17.jar",
+    "description": "Adds immersive biome-themed towers to the world, as a standalone option or add-on to Structory",
+    "url": "https://modrinth.com/mod/structory-towers"
+  },
+  {
+    "title": "Tectonic",
+    "slug": "tectonic",
+    "version": "3.0.28-fabric-21.1",
+    "filename": "tectonic-3.0.28-fabric-21.1.jar",
+    "description": "Terrain shaping brought to new heights, grander and more varied than ever before!",
+    "url": "https://modrinth.com/mod/tectonic"
+  },
+  {
+    "title": "TerraBlender",
+    "slug": "terrablender",
+    "version": "4.1.0.8",
+    "filename": "TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+    "description": "A library mod for adding biomes in a simple and compatible manner!",
+    "url": "https://modrinth.com/mod/terrablender"
+  },
+  {
+    "title": "Terralith",
+    "slug": "terralith",
+    "version": "2.6.2",
+    "filename": "Terralith_1.21.x_v2.6.2.jar",
+    "description": "Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.",
+    "url": "https://modrinth.com/mod/terralith"
+  },
+  {
+    "title": "Text Placeholder API",
+    "slug": "placeholder-api",
+    "version": "2.4.2+1.21",
+    "filename": "placeholder-api-2.4.2+1.21.jar",
+    "description": "Placeholder and Text manipulation library for your Minecraft mods.",
+    "url": "https://modrinth.com/mod/placeholder-api"
+  },
+  {
+    "title": "Thermoo",
+    "slug": "thermoo",
+    "version": "4.8.0",
+    "filename": "thermoo-4.8.0.jar",
+    "description": "Temperature and Environment library mod. Used by Frostiful and Scorchful.",
+    "url": "https://modrinth.com/mod/thermoo"
+  },
+  {
+    "title": "TieredZ",
+    "slug": "tieredz",
+    "version": "1.3.9+1.21.1",
+    "filename": "tiered-1.3.9.jar",
+    "description": "Adds tiers/modifiers to tools",
+    "url": "https://modrinth.com/mod/tieredz"
+  },
+  {
+    "title": "Tom's Simple Storage Mod",
+    "slug": "toms-storage",
+    "version": "1.21-2.4.2-fabric",
+    "filename": "toms_storage_fabric-1.21-2.4.2.jar",
+    "description": "Simple vanilla style storage mod",
+    "url": "https://modrinth.com/mod/toms-storage"
+  },
+  {
+    "title": "Towns and Towers",
+    "slug": "towns-and-towers",
+    "version": "1.13.11",
+    "filename": "t_and_t-fabric-neoforge-1.13.11.jar",
+    "description": "Spice up your world with new villages, pillager outposts, and even new ships!",
+    "url": "https://modrinth.com/mod/towns-and-towers"
+  },
+  {
+    "title": "Traveler's Compass",
+    "slug": "travelers-compass",
+    "version": "4.0.06",
+    "filename": "travelerscompass-fabric-1.21.1-4.0.06.jar",
+    "description": "A compass that will help you find any mob, block or item nearby",
+    "url": "https://modrinth.com/mod/travelers-compass"
+  },
+  {
+    "title": "Trinkets",
+    "slug": "trinkets",
+    "version": "3.10.0",
+    "filename": "trinkets-3.10.0.jar",
+    "description": "A data-driven accessory mod",
+    "url": "https://modrinth.com/mod/trinkets"
+  },
+  {
+    "title": "VeinMiner",
+    "slug": "veinminer",
+    "version": "2.11.2",
+    "filename": "veinminer-fabric-2.11.2+1.21.1.jar",
+    "description": "Mine the whole vein on mining a single ore/block. Make the tedious mining experience to something satisfying and fun! FTB Ultimine alternative",
+    "url": "https://modrinth.com/mod/veinminer"
+  },
+  {
+    "title": "VeinMiner Hotkey",
+    "slug": "veinminer-client",
+    "version": "2.11.2",
+    "filename": "veinminer-client-fabric-2.11.2+1.21.1.jar",
+    "description": "Veinminer Addon - Use a hotkey to veinmine with a dynamic crosshair & block highlighting",
+    "url": "https://modrinth.com/mod/veinminer-client"
+  },
+  {
+    "title": "Visuality",
+    "slug": "visuality",
+    "version": "0.7.7+1.21",
+    "filename": "visuality-0.7.7+1.21.jar",
+    "description": "Little visual improvements by adding a bunch of new particles.",
+    "url": "https://modrinth.com/mod/visuality"
+  },
+  {
+    "title": "Waystones",
+    "slug": "waystones",
+    "version": "21.1.46+fabric-1.21.1",
+    "filename": "waystones-fabric-1.21.1-21.1.46.jar",
+    "description": "Teleport from waystone to waystone or craft magical scrolls to warp.",
+    "url": "https://modrinth.com/mod/waystones"
+  },
+  {
+    "title": "When Dungeons Arise",
+    "slug": "when-dungeons-arise",
+    "version": "2.1.68",
+    "filename": "DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
+    "description": "Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!",
+    "url": "https://modrinth.com/mod/when-dungeons-arise"
+  },
+  {
+    "title": "When Dungeons Arise: Seven Seas",
+    "slug": "when-dungeons-arise-seven-seas",
+    "version": "1.0.4",
+    "filename": "DungeonsAriseSevenSeas-1.21.x-1.0.4-fabric.jar",
+    "description": "Elegant - and likely hostile - vessels lost in the seven seas...",
+    "url": "https://modrinth.com/mod/when-dungeons-arise-seven-seas"
+  },
+  {
+    "title": "Xaero's Minimap",
+    "slug": "xaeros-minimap",
+    "version": "fabric-1.21.1-26.6.0",
+    "filename": "xaerominimap-fabric-1.21.1-26.6.0.jar",
+    "description": "Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.",
+    "url": "https://modrinth.com/mod/xaeros-minimap"
+  },
+  {
+    "title": "Xaero's World Map",
+    "slug": "xaeros-world-map",
+    "version": "fabric-1.21.1-1.47.0",
+    "filename": "xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+    "description": "Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.",
+    "url": "https://modrinth.com/mod/xaeros-world-map"
+  },
+  {
+    "title": "YetAnotherConfigLib (YACL)",
+    "slug": "yacl",
+    "version": "3.8.2+1.21.1-fabric",
+    "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+    "description": "A builder-based configuration library for Minecraft!",
+    "url": "https://modrinth.com/mod/yacl"
+  },
+  {
+    "title": "You're in Grave Danger",
+    "slug": "yigd",
+    "version": "2.4.18",
+    "filename": "youre-in-grave-danger-fabric-2.4.18.jar",
+    "description": "A mod focused around death. Will add graves to minecraft",
+    "url": "https://modrinth.com/mod/yigd"
+  },
+  {
+    "title": "YUNG's API",
+    "slug": "yungs-api",
+    "version": "1.21.1-Fabric-5.1.9",
+    "filename": "YungsApi-1.21.1-Fabric-5.1.9.jar",
+    "description": "Library mod for YUNG's mods.",
+    "url": "https://modrinth.com/mod/yungs-api"
+  },
+  {
+    "title": "YUNG's Better Caves",
+    "slug": "yungs-better-caves",
+    "version": "1.21.1-Fabric-3.1.6",
+    "filename": "YungsBetterCaves-1.21.1-Fabric-3.1.6.jar",
+    "description": "Overhauled cave generation, underground lakes and rivers, lava oceans, and more!",
+    "url": "https://modrinth.com/mod/yungs-better-caves"
+  },
+  {
+    "title": "YUNG's Better Desert Temples",
+    "slug": "yungs-better-desert-temples",
+    "version": "1.21.1-Fabric-4.1.5",
+    "filename": "YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar",
+    "description": "A complete redesign of Minecraft's desert temples!",
+    "url": "https://modrinth.com/mod/yungs-better-desert-temples"
+  },
+  {
+    "title": "YUNG's Better Dungeons",
+    "slug": "yungs-better-dungeons",
+    "version": "1.21.1-Fabric-5.1.4",
+    "filename": "YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+    "description": "A complete redesign of Minecraft's dungeons!",
+    "url": "https://modrinth.com/mod/yungs-better-dungeons"
+  },
+  {
+    "title": "YUNG's Better End Island",
+    "slug": "yungs-better-end-island",
+    "version": "1.21.1-Fabric-3.1.2",
+    "filename": "YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar",
+    "description": "An overhaul of the main End Island where the dragon fight takes place!",
+    "url": "https://modrinth.com/mod/yungs-better-end-island"
+  },
+  {
+    "title": "YUNG's Better Jungle Temples",
+    "slug": "yungs-better-jungle-temples",
+    "version": "1.21.1-Fabric-3.1.2",
+    "filename": "YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar",
+    "description": "A complete redesign of Minecraft's jungle temples!",
+    "url": "https://modrinth.com/mod/yungs-better-jungle-temples"
+  },
+  {
+    "title": "YUNG's Better Mineshafts",
+    "slug": "yungs-better-mineshafts",
+    "version": "1.21.1-Fabric-5.1.1",
+    "filename": "YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+    "description": "A long-awaited and much-needed abandoned mineshaft overhaul!",
+    "url": "https://modrinth.com/mod/yungs-better-mineshafts"
+  },
+  {
+    "title": "YUNG's Better Nether Fortresses",
+    "slug": "yungs-better-nether-fortresses",
+    "version": "1.21.1-Fabric-3.1.5",
+    "filename": "YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar",
+    "description": "A complete redesign of Minecraft's Nether fortresses!",
+    "url": "https://modrinth.com/mod/yungs-better-nether-fortresses"
+  },
+  {
+    "title": "YUNG's Better Ocean Monuments",
+    "slug": "yungs-better-ocean-monuments",
+    "version": "1.21.1-Fabric-4.1.2",
+    "filename": "YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
+    "description": "A complete redesign of Minecraft's ocean monuments!",
+    "url": "https://modrinth.com/mod/yungs-better-ocean-monuments"
+  },
+  {
+    "title": "YUNG's Better Strongholds",
+    "slug": "yungs-better-strongholds",
+    "version": "1.21.1-Fabric-5.1.3",
+    "filename": "YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+    "description": "A complete redesign of Minecraft's strongholds!",
+    "url": "https://modrinth.com/mod/yungs-better-strongholds"
+  },
+  {
+    "title": "YUNG's Better Witch Huts",
+    "slug": "yungs-better-witch-huts",
+    "version": "1.21.1-Fabric-4.1.1",
+    "filename": "YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar",
+    "description": "Adds overhauled witch huts to swamps!",
+    "url": "https://modrinth.com/mod/yungs-better-witch-huts"
+  },
+  {
+    "title": "YUNG's Bridges",
+    "slug": "yungs-bridges",
+    "version": "1.21.1-Fabric-5.1.1",
+    "filename": "YungsBridges-1.21.1-Fabric-5.1.1.jar",
+    "description": "Adds beautiful naturally generated bridges throughout the world!",
+    "url": "https://modrinth.com/mod/yungs-bridges"
+  },
+  {
+    "title": "YUNG's Cave Biomes",
+    "slug": "yungs-cave-biomes",
+    "version": "1.21.1-Fabric-3.1.1",
+    "filename": "YungsCaveBiomes-1.21.1-Fabric-3.1.1.jar",
+    "description": "Adds new vanilla+ cave biomes and underground content!",
+    "url": "https://modrinth.com/mod/yungs-cave-biomes"
+  },
+  {
+    "title": "YUNG's Extras",
+    "slug": "yungs-extras",
+    "version": "1.21.1-Fabric-5.1.1",
+    "filename": "YungsExtras-1.21.1-Fabric-5.1.1.jar",
+    "description": "Extra structures, features, and vanilla+ content suitable for any modpack!",
+    "url": "https://modrinth.com/mod/yungs-extras"
+  },
+  {
+    "title": "YUNG's Menu Tweaks",
+    "slug": "yungs-menu-tweaks",
+    "version": "1.21.1-Fabric-2.1.2",
+    "filename": "YungsMenuTweaks-1.21.1-Fabric-2.1.2.jar",
+    "description": "A small, lightweight mod that makes browsing menus a lot easier",
+    "url": "https://modrinth.com/mod/yungs-menu-tweaks"
+  }
+]
