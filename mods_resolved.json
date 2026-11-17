@@ -26,24 +26,24 @@
   {
     "title": "Antarchy",
     "slug": "antarchy",
-    "version": "2.3.1+1.21.1-fabric",
-    "filename": "antarchy-2.3.1+1.21.1-fabric.jar",
+    "version": "2.4.3+1.21.1-fabric",
+    "filename": "antarchy-2.4.3+1.21.1-fabric.jar",
     "description": "Adding 45+ mobs, 8+ bosses, 3 fleshed out dimensions, and more",
     "url": "https://modrinth.com/mod/antarchy"
   },
   {
     "title": "Anthology: Time & Space API",
     "slug": "anthology",
-    "version": "1.0.3+1.21.1-fabric",
-    "filename": "anthology-1.0.3+1.21.1-fabric.jar",
+    "version": "1.0.7+1.21.1-fabric",
+    "filename": "anthology-1.0.7+1.21.1-fabric.jar",
     "description": "Library/API for messing with time and space",
     "url": "https://modrinth.com/mod/anthology"
   },
   {
     "title": "AntOS Computer | Quests + Guidebook",
     "slug": "antos",
-    "version": "1.6.3",
-    "filename": "antos-fabric-1.21.1-1.6.3.jar",
+    "version": "1.6.6",
+    "filename": "antos-fabric-1.21.1-1.6.6.jar",
     "description": "An immersive and fully functioning computer that provides an anternative to the stale and overused quest book and guide book",
     "url": "https://modrinth.com/mod/antos"
   },
@@ -122,8 +122,8 @@
   {
     "title": "ChoiceTheorem's Overhauled Village",
     "slug": "ct-overhaul-village",
-    "version": "3.6.3",
-    "filename": "[Fabric]ctov-3.6.3.jar",
+    "version": "3.6.4",
+    "filename": "[fabric]ctov-1.21.1-3.6.4.jar",
     "description": "Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.",
     "url": "https://modrinth.com/mod/ct-overhaul-village"
   },
@@ -170,8 +170,8 @@
   {
     "title": "CreativeCore",
     "slug": "creativecore",
-    "version": "2.13.48",
-    "filename": "CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+    "version": "2.13.54",
+    "filename": "CreativeCore_FABRIC_v2.13.54_mc1.21.1.jar",
     "description": "A core mod",
     "url": "https://modrinth.com/mod/creativecore"
   },
@@ -218,8 +218,8 @@
   {
     "title": "EMI Loot",
     "slug": "emi-loot",
-    "version": "0.7.9+1.21+fabric",
-    "filename": "emi_loot-0.7.9+1.21+fabric.jar",
+    "version": "0.7.10+1.21+fabric",
+    "filename": "emi_loot-0.7.10+1.21+fabric.jar",
     "description": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
     "url": "https://modrinth.com/mod/emi-loot"
   },
@@ -234,8 +234,8 @@
   {
     "title": "Entity Culling",
     "slug": "entityculling",
-    "version": "1.11.3",
-    "filename": "entityculling-fabric-1.11.3-mc1.21.1.jar",
+    "version": "1.12.1",
+    "filename": "entityculling-fabric-1.12.1-mc1.21.1.jar",
     "description": "Using async path-tracing to hide Block-/Entities that are not visible",
     "url": "https://modrinth.com/mod/entityculling"
   },
@@ -258,16 +258,16 @@
   {
     "title": "Explorify",
     "slug": "explorify",
-    "version": "v1.6.5",
-    "filename": "Explorify v1.6.5.mod.jar",
+    "version": "v1.6.6",
+    "filename": "Explorify v1.6.6.mod.jar",
     "description": "A simplistic, vanilla-friendly collection of new structures.",
     "url": "https://modrinth.com/mod/explorify"
   },
   {
     "title": "Fabric API",
     "slug": "fabric-api",
-    "version": "0.116.17+1.21.1",
-    "filename": "fabric-api-0.116.17+1.21.1.jar",
+    "version": "0.116.18+1.21.1",
+    "filename": "fabric-api-0.116.18+1.21.1.jar",
     "description": "Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.",
     "url": "https://modrinth.com/mod/fabric-api"
   },
@@ -354,10 +354,10 @@
   {
     "title": "Integrated API",
     "slug": "integrated-api",
-    "version": "1.9.1",
-    "filename": "integrated_api-fabric-1.21.1-1.9.1.jar",
-    "description": "Library mod for the Integrated Structures series",
-    "url": "https://modrinth.com/mod/integrated-api"
+    "version": "1.21.1-1.9.2",
+    "filename": "integrated_api-fabric-1.21.1-1.9.2.jar",
+    "description": "Library mod for the Integrated Structures series and Antarchy",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/integrated_api"
   },
   {
     "title": "Inventory Profiles Next",
@@ -370,8 +370,8 @@
   {
     "title": "Iris Shaders",
     "slug": "iris",
-    "version": "1.8.14-beta.1+1.21.1-fabric",
-    "filename": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+    "version": "1.8.8+1.21.1-fabric",
+    "filename": "iris-fabric-1.8.8+mc1.21.1.jar",
     "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs",
     "url": "https://modrinth.com/mod/iris"
   },
@@ -506,8 +506,8 @@
   {
     "title": "Moonlight Lib",
     "slug": "moonlight",
-    "version": "1.21.1-3.7.2",
-    "filename": "moonlight-1.21.1-3.7.2-fabric.jar",
+    "version": "1.21.1-3.8.3",
+    "filename": "moonlight-1.21.1-3.8.3-fabric.jar",
     "description": "dynamic data pack and registration, villager activities, custom map marker and a lot more",
     "url": "https://modrinth.com/mod/moonlight"
   },
@@ -542,6 +542,14 @@
     "filename": "notenoughanimations-fabric-1.12.7-mc1.21.1.jar",
     "description": "Bringing first-person animations to the third-person",
     "url": "https://modrinth.com/mod/not-enough-animations"
+  },
+  {
+    "title": "Oracle Index",
+    "slug": "oracle-index",
+    "version": "1.4.1",
+    "filename": "oracle_index-fabric-1.4.1.jar",
+    "description": "A minecraft fabric / neoforge client-side documentation viewer mod, intended to be used with wikis alongside moddedmc.wiki",
+    "url": "https://modrinth.com/mod/oracle-index"
   },
   {
     "title": "playerAnimator",
@@ -634,8 +642,8 @@
   {
     "title": "Sodium",
     "slug": "sodium",
-    "version": "mc1.21.1-0.8.13-fabric",
-    "filename": "sodium-fabric-0.8.13+mc1.21.1.jar",
+    "version": "mc1.21.1-0.6.13-fabric",
+    "filename": "sodium-fabric-0.6.13+mc1.21.1.jar",
     "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
     "url": "https://modrinth.com/mod/sodium"
   },
@@ -778,16 +786,16 @@
   {
     "title": "VeinMiner",
     "slug": "veinminer",
-    "version": "2.11.2",
-    "filename": "veinminer-fabric-2.11.2+1.21.1.jar",
+    "version": "2.14.0",
+    "filename": "veinminer-fabric-2.14.0+1.21.1.jar",
     "description": "Mine the whole vein on mining a single ore/block. Make the tedious mining experience to something satisfying and fun! FTB Ultimine alternative",
     "url": "https://modrinth.com/mod/veinminer"
   },
   {
     "title": "VeinMiner Hotkey",
     "slug": "veinminer-client",
-    "version": "2.11.2",
-    "filename": "veinminer-client-fabric-2.11.2+1.21.1.jar",
+    "version": "2.14.0",
+    "filename": "veinminer-client-fabric-2.14.0+1.21.1.jar",
     "description": "Veinminer Addon - Use a hotkey to veinmine with a dynamic crosshair & block highlighting",
     "url": "https://modrinth.com/mod/veinminer-client"
   },
@@ -802,8 +810,8 @@
   {
     "title": "Waystones",
     "slug": "waystones",
-    "version": "21.1.46+fabric-1.21.1",
-    "filename": "waystones-fabric-1.21.1-21.1.46.jar",
+    "version": "21.1.47+fabric-1.21.1",
+    "filename": "waystones-fabric-1.21.1-21.1.47.jar",
     "description": "Teleport from waystone to waystone or craft magical scrolls to warp.",
     "url": "https://modrinth.com/mod/waystones"
   },

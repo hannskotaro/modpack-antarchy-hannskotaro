@@ -33,6 +33,7 @@ Consulte o arquivo [GUIA_DE_TECLAS.md](GUIA_DE_TECLAS.md) para a relação compl
 - **Better Combat**: Sistema de animação e combate fluido
 - **Combat Roll**: Esquiva e rolamento direcional
 - **Simply Swords**: Armas brancas variantes com habilidades ativas
+- **Oracle Index**: Guia e enciclopédia in-game recomendada pelo Simply Swords
 - **TieredZ**: Modificadores de atributos e raridade de itens (estilo RPG)
 - **Bosses of Mass Destruction**: Chefes desafiadores adicionais
 - **AdventureZ**: Novas entidades e chefes nos três reinos

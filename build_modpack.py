@@ -25,7 +25,6 @@ MOD_SLUGS = [
     "antarchy",
     "antos",
     "anthology",
-    "integrated-api",
     "sizeable-foliage",
     "midnightlib",
 
@@ -51,6 +50,7 @@ MOD_SLUGS = [
     "bosses-of-mass-destruction",
     "adventurez",
     "simply-swords",
+    "oracle-index",
     "tieredz",
     "trinkets",
     "artifacts",
@@ -164,7 +164,26 @@ def search_project_slug(query: str):
     return None
 
 
+PINNED_VERSIONS = {
+    "sodium": "u1OEbNKx",            # mc1.21.1-0.6.13-fabric (stable 1.21.1; avoids 0.8.x backport particle/GL issues)
+    "AANobbMI": "u1OEbNKx",
+    "iris": "zsoi0dso",              # 1.8.8+1.21.1-fabric (stable release paired with Sodium 0.6.13)
+    "YL57xq9U": "zsoi0dso",
+    "architectury-api": "Pzc2FP5K",  # 13.0.11+fabric (exact version required by Antarchy 2.4.3)
+    "lhGA9TYQ": "Pzc2FP5K",
+}
+
+SKIP_MODRINTH_IDS = {
+    "integrated-api",
+    "V6fKbpBN",  # Modrinth 1.9.2 uploaded 1.20.1 jar by mistake; pulled from CurseForge CDN in external_files
+}
+
+
 def get_compatible_version(project_id_or_slug: str):
+    if project_id_or_slug in SKIP_MODRINTH_IDS:
+        return None
+    if project_id_or_slug in PINNED_VERSIONS:
+        return api_get(f"/version/{PINNED_VERSIONS[project_id_or_slug]}")
     loaders = urllib.parse.quote(json.dumps([LOADER]))
     versions = urllib.parse.quote(json.dumps([GAME_VERSION]))
     path = f"/project/{project_id_or_slug}/version?loaders={loaders}&game_versions={versions}"
@@ -264,6 +283,21 @@ def main():
             "fileSize": 347327813,
         },
         {
+            "path": "mods/integrated_api-fabric-1.21.1-1.9.2.jar",
+            "hashes": {
+                "sha1": "48d13c7668a010f9db4783399acd07ee6e952b0b",
+                "sha512": "dcf6aab9f208ec919b5f90cab390fc1ae179ea82b3c8803f5a4f41028ed319b1035012bab82228511f08205be654ee608e11fd81641ec5fb4ceb70276010ac34",
+            },
+            "env": {
+                "client": "required",
+                "server": "required",
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/9552/205/integrated_api-fabric-1.21.1-1.9.2.jar"
+            ],
+            "fileSize": 463087,
+        },
+        {
             "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
             "hashes": {
                 "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6",
@@ -287,6 +321,14 @@ def main():
         "filename": "zmedievalmusic-fabric-1.21-2.1.jar",
         "description": "Royalty-free medieval soundtracks by Alexander Nakarada",
         "url": "https://www.curseforge.com/minecraft/mc-mods/medieval-music",
+    })
+    manifest_summary.append({
+        "title": "Integrated API",
+        "slug": "integrated-api",
+        "version": "1.21.1-1.9.2",
+        "filename": "integrated_api-fabric-1.21.1-1.9.2.jar",
+        "description": "Library mod for the Integrated Structures series and Antarchy",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/integrated_api",
     })
     manifest_summary.append({
         "title": "Complementary Shaders - Reimagined",
