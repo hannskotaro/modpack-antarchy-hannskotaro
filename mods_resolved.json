@@ -370,8 +370,8 @@
   {
     "title": "Iris Shaders",
     "slug": "iris",
-    "version": "1.8.8+1.21.1-fabric",
-    "filename": "iris-fabric-1.8.8+mc1.21.1.jar",
+    "version": "1.8.14-beta.1+1.21.1-fabric",
+    "filename": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
     "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs",
     "url": "https://modrinth.com/mod/iris"
   },
@@ -642,8 +642,8 @@
   {
     "title": "Sodium",
     "slug": "sodium",
-    "version": "mc1.21.1-0.6.13-fabric",
-    "filename": "sodium-fabric-0.6.13+mc1.21.1.jar",
+    "version": "mc1.21.1-0.8.13-fabric",
+    "filename": "sodium-fabric-0.8.13+mc1.21.1.jar",
     "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
     "url": "https://modrinth.com/mod/sodium"
   },

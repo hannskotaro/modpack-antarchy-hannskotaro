@@ -165,10 +165,6 @@ def search_project_slug(query: str):
 
 
 PINNED_VERSIONS = {
-    "sodium": "u1OEbNKx",            # mc1.21.1-0.6.13-fabric (stable 1.21.1; avoids 0.8.x backport particle/GL issues)
-    "AANobbMI": "u1OEbNKx",
-    "iris": "zsoi0dso",              # 1.8.8+1.21.1-fabric (stable release paired with Sodium 0.6.13)
-    "YL57xq9U": "zsoi0dso",
     "architectury-api": "Pzc2FP5K",  # 13.0.11+fabric (exact version required by Antarchy 2.4.3)
     "lhGA9TYQ": "Pzc2FP5K",
 }
