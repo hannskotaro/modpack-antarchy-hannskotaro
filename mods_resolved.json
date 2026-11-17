@@ -360,14 +360,6 @@
     "url": "https://www.curseforge.com/minecraft/mc-mods/integrated_api"
   },
   {
-    "title": "Inventory Profiles Next",
-    "slug": "inventory-profiles-next",
-    "version": "fabric-1.21.1-2.2.6",
-    "filename": "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
-    "description": "Take control over your inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.",
-    "url": "https://modrinth.com/mod/inventory-profiles-next"
-  },
-  {
     "title": "Iris Shaders",
     "slug": "iris",
     "version": "1.8.14-beta.1+1.21.1-fabric",
@@ -390,14 +382,6 @@
     "filename": "lambdynamiclights-4.8.11+1.21.1.jar",
     "description": "Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod.",
     "url": "https://modrinth.com/mod/lambdynamiclights"
-  },
-  {
-    "title": "libIPN",
-    "slug": "libipn",
-    "version": "fabric-1.21.1-6.6.3",
-    "filename": "libIPN-fabric-1.21.1-6.6.3.jar",
-    "description": "Inventory Profiles Next GUI/Config library",
-    "url": "https://modrinth.com/mod/libipn"
   },
   {
     "title": "LibZ",

@@ -700,21 +700,6 @@
       "fileSize": 463087
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
-      "hashes": {
-        "sha1": "a99471cb13f2c3c355ab3a61483580ccfa0d3693",
-        "sha512": "329ba98932110af7905e0108f96aef2750a2cc6a6eec6fdc7c4a6b3682a9886d91b695ecc9677c2a619d829642a1f795dd01c32564f18e0151a861c9e3a158b1"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/O7RBXm3n/versions/h1db7jG7/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar"
-      ],
-      "fileSize": 1331935
-    },
-    {
       "path": "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
       "hashes": {
         "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5",
@@ -758,21 +743,6 @@
         "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar"
       ],
       "fileSize": 2023375
-    },
-    {
-      "path": "mods/libIPN-fabric-1.21.1-6.6.3.jar",
-      "hashes": {
-        "sha1": "0fdc425d1fc0ad8703256f43deadcadee4328eea",
-        "sha512": "765991facc85b2cbc5a40c5ddc506da16f18a5c43de7c42757195dbc8d43e09573504602d3695de0054e5a868c6368fca7ad982738f509ba17a68d373532d16c"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/onSQdWhM/versions/PSscYPRs/libIPN-fabric-1.21.1-6.6.3.jar"
-      ],
-      "fileSize": 636114
     },
     {
       "path": "mods/libz-1.2.0.jar",

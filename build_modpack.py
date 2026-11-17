@@ -105,7 +105,6 @@ MOD_SLUGS = [
     # --- QoL, VeinMining, Inventory, Keybinds, UI & Immersion ---
     "veinminer",
     "veinminer-client",
-    "inventory-profiles-next",
     "controlling",
     "enchantment-descriptions",
     "eating-animation",

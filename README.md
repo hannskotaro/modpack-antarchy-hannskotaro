@@ -89,7 +89,6 @@ Consulte o arquivo [GUIA_DE_TECLAS.md](GUIA_DE_TECLAS.md) para a relação compl
 - **Traveler's Compass**: Localizador de entidades, blocos e pontos específicos
 
 ### Qualidade de Vida (QoL) & Interface
-- **Inventory Profiles Next (IPN)**: Gestão e ordenação de inventário
 - **Controlling**: Busca e resolução de conflitos no menu de teclas
 - **EMI** & **EMI Loot**: Consulta de receitas e tabelas de drop
 - **Jade**: Identificação visual de blocos e entidades na mira
@@ -140,7 +139,6 @@ Consulte o arquivo [GUIA_DE_TECLAS.md](GUIA_DE_TECLAS.md) para a relação compl
 - Text Placeholder API
 - Thermoo
 - YetAnotherConfigLib (YACL)
-- libIPN
 
 </details>
 
