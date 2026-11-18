@@ -4,12 +4,13 @@ Modpack focado em RPG, exploração e chefes centrado no mod **Antarchy**, estru
 
 ## Instalação
 
-O modpack é distribuído no formato padrão `.mrpack` (compatível com Prism Launcher e Modrinth App):
-- Arquivo: `Antarchy-RPG-1.21.1-Fabric.mrpack` (aprox. 21 KB)
+Baixe a versão mais recente diretamente pelo link abaixo (inicia o download do `.mrpack` na hora):
+
+- **[Baixar Antarchy-RPG-1.21.1-Fabric.mrpack (Última Release)](https://github.com/hannskotaro/modpack-antarchy-hannskotaro/releases/latest/download/Antarchy-RPG-1.21.1-Fabric.mrpack)**
 
 ### Prism Launcher
 1. Clique em **Adicionar Instância** -> **Importar**.
-2. Selecione o arquivo `.mrpack`.
+2. Selecione o arquivo `.mrpack` baixado (ou cole o link acima diretamente no campo de importação por URL).
 3. O launcher fará o download automatizado de todos os mods e dependências.
 
 ### Requisitos de Sistema

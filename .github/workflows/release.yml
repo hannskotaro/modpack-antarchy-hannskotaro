@@ -1,0 +1,29 @@
+name: Release Modpack
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Antarchy-RPG-1.21.1-Fabric.mrpack'
+      - '.github/workflows/release.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="v1.0.${{ github.run_number }}"
+          SHORT_SHA="${GITHUB_SHA::7}"
+          gh release create "$TAG" "Antarchy-RPG-1.21.1-Fabric.mrpack" \
+            --title "Antarchy RPG $TAG" \
+            --notes "Build automático do modpack (commit $SHORT_SHA)." \
+            --latest
