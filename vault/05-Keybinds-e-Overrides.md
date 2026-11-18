@@ -11,10 +11,16 @@ Relacionado: [[00-Index]] | [[01-Arquitetura-Modpack]]
 ## Arquivos em `overrides/`
 
 1. **`overrides/options.txt`**
-   - Contém todos os `key_*` remapeados com **zero conflitos** entre as 133 ações registradas.
+   - Contém todos os `key_*` remapeados com **zero conflitos** entre as 146 ações registradas.
    - Define `glDebugVerbosity:0` e `particles:0` (*All*).
-2. **`overrides/config/bettercombat/client.json`**
-   - Habilita `targetHoldAttack`, `allowFastAttacks` e `swingThruGrass`.
+   - Ativa nativamente os Resource Packs embutidos: `continuity:default`, `continuity:glass_pane_culling_fix` e `elytratrails:*`.
+2. **`overrides/shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt`**
+   - Perfil otimizado importado do *Vanilla Perfected*: desativa reflexos pesados, SSAO, lightshafts e neblinas densas para ganhar FPS mantendo o visual *Reimagined* com contorno sutil e minérios brilhantes.
+3. **`overrides/config/` (29 arquivos calibrados do *Vanilla Perfected*)**
+   - `betterf3.json` (F3 minimalista apenas com versão, FPS e coordenadas X/Y/Z).
+   - `MouseTweaks.cfg`, `immersive-hotbar.json5`, `betteradvancements.json`, `chatanimation.json`, `status-effect-bars.json`, `detailarmorbar.json`, `pickupnotifications.toml`.
+   - `particlerain/` (`config.json` + `particles.json` sem neblina pesada), `moreculling.toml`, `entityculling.json`, `sodium-options.json`, `sodium-extra-options.json`, `lambdynlights.toml`.
+   - `bettercombat/client.json`, `cutthrough-client.toml`, `rightclickharvest.json5`, `cropsloverain.toml`, `iteminteractions-*.toml`, `elytratrails.json`, `entity_model_features.json`, `entity_texture_features.json`, `notenoughanimations.json`, `skinlayers.json`, `visuality.json`.
 
 ## Mapa de Resolução dos Conflitos Principais
 

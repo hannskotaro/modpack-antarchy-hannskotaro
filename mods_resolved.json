@@ -8,6 +8,22 @@
     "url": "https://modrinth.com/mod/3dskinlayers"
   },
   {
+    "title": "[EMF] Entity Model Features",
+    "slug": "entity-model-features",
+    "version": "3.3.12-fabric-1.21",
+    "filename": "entity_model_features-3.3.12-1.21-fabric.jar",
+    "description": "EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge.",
+    "url": "https://modrinth.com/mod/entity-model-features"
+  },
+  {
+    "title": "[ETF] Entity Texture Features",
+    "slug": "entitytexturefeatures",
+    "version": "7.2.7-fabric-1.21",
+    "filename": "entity_texture_features-7.2.7-1.21-fabric.jar",
+    "description": "Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric",
+    "url": "https://modrinth.com/mod/entitytexturefeatures"
+  },
+  {
     "title": "AdventureZ",
     "slug": "adventurez",
     "version": "1.5.2+1.21.1",
@@ -88,6 +104,14 @@
     "url": "https://modrinth.com/mod/balm"
   },
   {
+    "title": "Better Advancements",
+    "slug": "better-advancements",
+    "version": "0.4.3.21",
+    "filename": "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
+    "description": "Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment",
+    "url": "https://modrinth.com/mod/better-advancements"
+  },
+  {
     "title": "Better Combat",
     "slug": "better-combat",
     "version": "2.4.0+1.21.1-fabric",
@@ -96,12 +120,28 @@
     "url": "https://modrinth.com/mod/better-combat"
   },
   {
+    "title": "BetterF3",
+    "slug": "betterf3",
+    "version": "11.0.3",
+    "filename": "BetterF3-11.0.3-Fabric-1.21.1.jar",
+    "description": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+    "url": "https://modrinth.com/mod/betterf3"
+  },
+  {
     "title": "Bookshelf",
     "slug": "bookshelf-lib",
     "version": "21.1.81",
     "filename": "bookshelf-fabric-1.21.1-21.1.81.jar",
     "description": "An open source library for other mods!",
     "url": "https://modrinth.com/mod/bookshelf-lib"
+  },
+  {
+    "title": "Borderless Fullscreen",
+    "slug": "borderless-fullscreen",
+    "version": "2.4.1-1.21.1",
+    "filename": "BorderlessFullscreen-v2.4.1-mc1.21.1.jar",
+    "description": "Makes Minecraft's fullscreen mode more configurable",
+    "url": "https://modrinth.com/mod/borderless-fullscreen"
   },
   {
     "title": "Bosses of Mass Destruction",
@@ -118,6 +158,22 @@
     "filename": "cardinal-components-api-6.1.3.jar",
     "description": "A data attachment API that is easy, modular, and extremely fast.",
     "url": "https://modrinth.com/mod/cardinal-components-api"
+  },
+  {
+    "title": "Chat Animation [Smooth Chat]",
+    "slug": "chatanimation",
+    "version": "1.3.5+fabric-1.21",
+    "filename": "chatanimation-fabric-1.3.5+mc1.21.jar",
+    "description": "Makes chat messages appear with a smooth animation.",
+    "url": "https://modrinth.com/mod/chatanimation"
+  },
+  {
+    "title": "Cherished Worlds",
+    "slug": "cherished-worlds",
+    "version": "10.1.1+1.21.1",
+    "filename": "cherishedworlds-fabric-10.1.1+1.21.1.jar",
+    "description": "Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted.",
+    "url": "https://modrinth.com/mod/cherished-worlds"
   },
   {
     "title": "ChoiceTheorem's Overhauled Village",
@@ -160,6 +216,14 @@
     "url": "https://modrinth.com/shader/complementary-reimagined"
   },
   {
+    "title": "Continuity",
+    "slug": "continuity",
+    "version": "3.0.0+1.21",
+    "filename": "continuity-3.0.0+1.21.jar",
+    "description": "A Minecraft mod that allows for efficient connected textures",
+    "url": "https://modrinth.com/mod/continuity"
+  },
+  {
     "title": "Controlling",
     "slug": "controlling",
     "version": "19.0.5",
@@ -192,6 +256,38 @@
     "url": "https://modrinth.com/mod/cristel-lib"
   },
   {
+    "title": "Crops Love Rain",
+    "slug": "crops-love-rain",
+    "version": "3.2.2+1.21.4-fabric",
+    "filename": "cropsloverain-3.2.2.jar",
+    "description": "Makes crops grow faster when it's raining",
+    "url": "https://modrinth.com/mod/crops-love-rain"
+  },
+  {
+    "title": "Cut Through",
+    "slug": "cut-through",
+    "version": "v21.1.0-1.21.1-Fabric",
+    "filename": "CutThrough-v21.1.0-1.21.1-Fabric.jar",
+    "description": "Cleanly swing through transparent blocks like tall grass to hit mobs without breaking said block.",
+    "url": "https://modrinth.com/mod/cut-through"
+  },
+  {
+    "title": "Delete Worlds To Trash",
+    "slug": "delete-worlds-to-trash",
+    "version": "v21.1.0-1.21.1-Fabric",
+    "filename": "DeleteWorldsToTrash-v21.1.0-1.21.1-Fabric.jar",
+    "description": "Deleted worlds are gone forever, right? Not anymore! Simply restore them from your recycle bin.",
+    "url": "https://modrinth.com/mod/delete-worlds-to-trash"
+  },
+  {
+    "title": "Detail Armor Bar Reconstructed",
+    "slug": "detail-armor-bar-reconstructed",
+    "version": "5.3.3+alpha.1+1.21.1-fabric",
+    "filename": "DetailArmorBarReconstructed-5.3.3+alpha.1+1.21.1-fabric.jar",
+    "description": "More details about armor in the armor bar!",
+    "url": "https://modrinth.com/mod/detail-armor-bar-reconstructed"
+  },
+  {
     "title": "Dungeons and Taverns",
     "slug": "dungeons-and-taverns",
     "version": "v4.4.4+mod",
@@ -200,12 +296,44 @@
     "url": "https://modrinth.com/mod/dungeons-and-taverns"
   },
   {
+    "title": "Easy Shulker Boxes",
+    "slug": "easy-shulker-boxes",
+    "version": "v21.1.3-1.21.1-Fabric",
+    "filename": "EasyShulkerBoxes-v21.1.3-1.21.1-Fabric.jar",
+    "description": "Supercharge shulker boxes with browsing, inserting and extracting contents directly from your inventory.",
+    "url": "https://modrinth.com/mod/easy-shulker-boxes"
+  },
+  {
     "title": "Eating Animation",
     "slug": "eating-animation",
     "version": "1.9.72",
     "filename": "eating-animation-1.21+1.9.72.jar",
     "description": "A mod that adds sprite animations for edible and drinkable items.",
     "url": "https://modrinth.com/mod/eating-animation"
+  },
+  {
+    "title": "EclipseUI",
+    "slug": "eclipseui",
+    "version": "1.0.5+mc1.21.1-fabric",
+    "filename": "EclipseUI-fabric-1.0.5-fabric-1.21.1.jar",
+    "description": "A modern config and config UI lib.",
+    "url": "https://modrinth.com/mod/eclipseui"
+  },
+  {
+    "title": "Elytra Contrails Mod",
+    "slug": "elytra-contrails-mod",
+    "version": "1.4.7.5-1.21.1",
+    "filename": "elytratrails-1.4.7.5-1.21.1.jar",
+    "description": "Adds Accurate Elytra Trails with a Mod!",
+    "url": "https://modrinth.com/mod/elytra-contrails-mod"
+  },
+  {
+    "title": "Elytra Trims",
+    "slug": "elytra-trims",
+    "version": "3.10.0",
+    "filename": "elytratrims-fabric-3.10.0+1.21.1.jar",
+    "description": "Customizable elytra mod with trims, banner patterns and more!",
+    "url": "https://modrinth.com/mod/elytra-trims"
   },
   {
     "title": "EMI",
@@ -352,6 +480,14 @@
     "url": "https://modrinth.com/mod/immediatelyfast"
   },
   {
+    "title": "Immersive Hotbar",
+    "slug": "immersive-hotbar",
+    "version": "1.3.0-1.21-1.21.1",
+    "filename": "immersive-hotbar-1.3.0-1.21-1.21.1.jar",
+    "description": "Adds animations to the hotbar to make it more immersive",
+    "url": "https://modrinth.com/mod/immersive-hotbar"
+  },
+  {
     "title": "Integrated API",
     "slug": "integrated-api",
     "version": "1.21.1-1.9.2",
@@ -374,6 +510,14 @@
     "filename": "Jade-1.21.1-Fabric-15.10.6.jar",
     "description": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)",
     "url": "https://modrinth.com/mod/jade"
+  },
+  {
+    "title": "JamLib",
+    "slug": "jamlib",
+    "version": "1.3.6+1.21.1",
+    "filename": "jamlib-fabric-1.3.6+1.21.1.jar",
+    "description": "The platform-agnostic, Architectury based library used in all of JamCoreModding's mods",
+    "url": "https://modrinth.com/mod/jamlib"
   },
   {
     "title": "LambDynamicLights - Dynamic Lights",
@@ -496,6 +640,22 @@
     "url": "https://modrinth.com/mod/moonlight"
   },
   {
+    "title": "More Culling",
+    "slug": "moreculling",
+    "version": "1.0.11",
+    "filename": "moreculling-fabric-1.21.1-1.0.11.jar",
+    "description": "A mod that changes how multiple types of culling are handled in order to improve performance",
+    "url": "https://modrinth.com/mod/moreculling"
+  },
+  {
+    "title": "Mouse Tweaks",
+    "slug": "mouse-tweaks",
+    "version": "1.21-2.26-fabric",
+    "filename": "MouseTweaks-fabric-mc1.21-2.26.jar",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. ",
+    "url": "https://modrinth.com/mod/mouse-tweaks"
+  },
+  {
     "title": "MVS - Moog's Voyager Structures",
     "slug": "moogs-voyager-structures",
     "version": "5.1.3",
@@ -534,6 +694,30 @@
     "filename": "oracle_index-fabric-1.4.1.jar",
     "description": "A minecraft fabric / neoforge client-side documentation viewer mod, intended to be used with wikis alongside moddedmc.wiki",
     "url": "https://modrinth.com/mod/oracle-index"
+  },
+  {
+    "title": "Packed Packs",
+    "slug": "packed-packs",
+    "version": "2.4.0+1.21.1",
+    "filename": "packed_packs-fabric-2.4.0+1.21.1.jar",
+    "description": "Pack resource and data packs into profiles with multiple selection, drag and drop, and extended mouse and keyboard controls.",
+    "url": "https://modrinth.com/mod/packed-packs"
+  },
+  {
+    "title": "Particle Rain",
+    "slug": "particle-rain",
+    "version": "v4.0.3+1.21.1-fabric",
+    "filename": "particlerain-4.0.3+1.21.1-fabric.jar",
+    "description": "Replaces weather with prettier particle effects",
+    "url": "https://modrinth.com/mod/particle-rain"
+  },
+  {
+    "title": "Pickup Notifications",
+    "slug": "pickup-notifications",
+    "version": "1.7.1+1.21",
+    "filename": "pickupnotifications-1.7.1+1.21.jar",
+    "description": "Show popup notifications when you pick up items.",
+    "url": "https://modrinth.com/mod/pickup-notifications"
   },
   {
     "title": "playerAnimator",
@@ -592,6 +776,14 @@
     "url": "https://modrinth.com/mod/resourceful-lib"
   },
   {
+    "title": "RightClickHarvest",
+    "slug": "rightclickharvest",
+    "version": "4.7.1+1.21.1",
+    "filename": "rightclickharvest-fabric-4.7.1+1.21.1.jar",
+    "description": "Allows you to harvest crops with right click",
+    "url": "https://modrinth.com/mod/rightclickharvest"
+  },
+  {
     "title": "Searchables",
     "slug": "searchables",
     "version": "1.0.2",
@@ -632,6 +824,14 @@
     "url": "https://modrinth.com/mod/sodium"
   },
   {
+    "title": "Sodium Extra",
+    "slug": "sodium-extra",
+    "version": "mc1.21.1-0.9.5+fabric",
+    "filename": "sodium-extra-fabric-0.9.5+mc1.21.1.jar",
+    "description": "A Sodium addon that adds features that shouldn't be in Sodium.",
+    "url": "https://modrinth.com/mod/sodium-extra"
+  },
+  {
     "title": "Sophisticated Backpacks (Unoffical Fabric port)",
     "slug": "sophisticated-backpacks-unoffical-fabric-port",
     "version": "1.21.1-3.23.4.3.106",
@@ -670,6 +870,14 @@
     "filename": "spark-1.10.109-fabric.jar",
     "description": "spark is a performance profiler for Minecraft clients, servers and proxies.",
     "url": "https://modrinth.com/mod/spark"
+  },
+  {
+    "title": "Status Effect Bars",
+    "slug": "status-effect-bars",
+    "version": "1.0.6",
+    "filename": "status-effect-bars-1.0.6.jar",
+    "description": "Adds customizable bars to the status effects overlay to show the remaining duration of effects.",
+    "url": "https://modrinth.com/mod/status-effect-bars"
   },
   {
     "title": "Structory",

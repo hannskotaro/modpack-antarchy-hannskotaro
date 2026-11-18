@@ -79,7 +79,9 @@ Consulte o arquivo [GUIA_DE_TECLAS.md](GUIA_DE_TECLAS.md) para a relação compl
 - **Sophisticated Backpacks**: Mochilas equipáveis com upgrades funcionais
 - **Sophisticated Storage**: Baús e barris com expansão de capacidade
 - **Tom's Simple Storage Mod**: Terminal unificado e redes de armazenamento simples
+- **Easy Shulker Boxes**: Abertura e manipulação de Shulker Boxes e Bundles direto no inventário
 - **Farmer's Delight Refabricated**: Expansão de agricultura, culinária e ferramentas
+- **RightClickHarvest** & **Crops Love Rain**: Colheita e replantio com botão direito e crescimento acelerado na chuva
 - **VeinMiner** & **VeinMiner Hotkey**: Mineração do veio completo sem necessidade de encantamento
 
 ### Exploração & Navegação
@@ -90,6 +92,18 @@ Consulte o arquivo [GUIA_DE_TECLAS.md](GUIA_DE_TECLAS.md) para a relação compl
 - **Traveler's Compass**: Localizador de entidades, blocos e pontos específicos
 
 ### Qualidade de Vida (QoL) & Interface
+- **Mouse Tweaks**: Arrastar e transferir itens com clique/scroll do mouse sem poluir a interface
+- **Cut Through**: Ataque a inimigos através de grama alta sem quebrar a vegetação
+- **BetterF3**: Tela de debug (`F3`) minimalista (exibindo apenas versão, FPS e coordenadas X/Y/Z)
+- **Immersive Hotbar**: Animações fluidas na barra de itens e barra de XP com brilho dinâmico
+- **Better Advancements**: Tela de conquistas expandida e estilizada
+- **Detail Armor Bar Reconstructed**: Exibição de encantamentos, tipo de armadura e avisos de durabilidade na barra de armadura
+- **Status Effect Bars**: Barra de duração restante sob os ícones de efeitos e poções
+- **Pickup Notifications**: Notificação discreta de itens e XP coletados no canto inferior direito
+- **Chat Animation**: Animação suave de entrada de mensagens no chat
+- **Cherished Worlds** & **Delete Worlds To Trash**: Favoritar mundos e enviar mundos excluídos para a Lixeira do sistema
+- **Packed Packs**: Gerenciador aprimorado de Resource Packs
+- **Borderless Fullscreen**: Tela cheia sem bordas com `Alt+Tab` instantâneo
 - **Controlling**: Busca e resolução de conflitos no menu de teclas
 - **EMI** & **EMI Loot**: Consulta de receitas e tabelas de drop
 - **Jade**: Identificação visual de blocos e entidades na mira
@@ -105,10 +119,10 @@ Consulte o arquivo [GUIA_DE_TECLAS.md](GUIA_DE_TECLAS.md) para a relação compl
 - **Lootr**: Baús de dungeons com inventário individual para cada jogador
 
 ### Áudio, Visual & Performance
-- **Otimização**: Sodium, Lithium, Iris Shaders, FerriteCore, ImmediatelyFast, Entity Culling, ModernFix, Noisium, Spark
+- **Otimização**: Sodium, Sodium Extra, Lithium, Iris Shaders, FerriteCore, ImmediatelyFast, Entity Culling, More Culling, ModernFix, Noisium, Spark
 - **Áudio**: Sound Physics Remastered (reverberação física), AmbientSounds, Presence Footsteps, Medieval Music
-- **Visual**: Visuality (partículas), Not Enough Animations, 3D Skin Layers, Eating Animation, LambDynamicLights
-- **Shaderpack**: Complementary Shaders - Reimagined
+- **Visual**: Particle Rain (chuva, neve e poeira físicas), Continuity (texturas conectadas), Entity Model Features (EMF) & Entity Texture Features (ETF), Elytra Trims & Elytra Contrails, Visuality (partículas), Not Enough Animations, 3D Skin Layers, Eating Animation, LambDynamicLights
+- **Shaderpack**: Complementary Shaders - Reimagined (com perfil de performance e estética calibrado do *Vanilla Perfected*)
 
 <details>
 <summary><strong>Bibliotecas e Dependências Técnicas (Expandir)</strong></summary>
