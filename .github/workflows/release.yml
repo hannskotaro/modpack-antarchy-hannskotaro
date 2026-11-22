@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'Antarchy-RPG-1.21.1-Fabric.mrpack'
+      - 'Antarchy-RPG-*.mrpack'
       - '.github/workflows/release.yml'
   workflow_dispatch:
 
@@ -21,9 +21,14 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          TAG="v1.0.${{ github.run_number }}"
+          VERSION=$(python3 -c "import json; print(json.load(open('modrinth.index.json'))['versionId'])")
+          MRPACK=$(ls Antarchy-RPG-*.mrpack | head -n 1)
+          TAG="v${VERSION}"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            TAG="v${VERSION}.${{ github.run_number }}"
+          fi
           SHORT_SHA="${GITHUB_SHA::7}"
-          gh release create "$TAG" "Antarchy-RPG-1.21.1-Fabric.mrpack" \
+          gh release create "$TAG" "$MRPACK" \
             --title "Antarchy RPG $TAG" \
-            --notes "Build automático do modpack (commit $SHORT_SHA)." \
+            --notes "Build automático do modpack ($MRPACK - commit $SHORT_SHA)." \
             --latest

@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.0.0",
-  "name": "Antarchy: Realms of Chaos (RPG & Exploration)",
+  "versionId": "1.1.0",
+  "name": "Antarchy: Realms of Chaos v1.1.0",
   "summary": "Modpack de RPG, exploração dimensional, dungeons e chefes centrado no Antarchy (1.21.1 Fabric).",
   "dependencies": {
     "minecraft": "1.21.1",

@@ -22,9 +22,9 @@ Hub central de memória técnica do projeto **Antarchy: Realms of Chaos** (`Mine
 
 ## Links Rápidos do Projeto
 
-- **Pacote Canônico:** `Antarchy-RPG-1.21.1-Fabric.mrpack` (~41 KB)
+- **Pacote Canônico:** `Antarchy-RPG-1.21.1-Fabric-v1.1.0.mrpack` (~41 KB)
 - **Repositório GitHub:** `https://github.com/hannskotaro/modpack-antarchy-hannskotaro`
 - **URL de Download Direto (Latest Release):**
-  `https://github.com/hannskotaro/modpack-antarchy-hannskotaro/releases/latest/download/Antarchy-RPG-1.21.1-Fabric.mrpack`
+  `https://github.com/hannskotaro/modpack-antarchy-hannskotaro/releases/latest/download/Antarchy-RPG-1.21.1-Fabric-v1.1.0.mrpack`
 - **Instância Local (Prism Launcher):**
   `C:\Users\quotaro\AppData\Roaming\PrismLauncher\instances\Antarchy-RPG-1.21.1-Fabric\minecraft`

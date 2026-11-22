@@ -6,7 +6,7 @@ Modpack focado em RPG, exploração e chefes centrado no mod **Antarchy**, estru
 
 Baixe a versão mais recente diretamente pelo link abaixo (inicia o download do `.mrpack` na hora):
 
-- **[Baixar Antarchy-RPG-1.21.1-Fabric.mrpack (Última Release)](https://github.com/hannskotaro/modpack-antarchy-hannskotaro/releases/latest/download/Antarchy-RPG-1.21.1-Fabric.mrpack)**
+- **[Baixar Antarchy-RPG-1.21.1-Fabric-v1.1.0.mrpack (Última Release)](https://github.com/hannskotaro/modpack-antarchy-hannskotaro/releases/latest/download/Antarchy-RPG-1.21.1-Fabric-v1.1.0.mrpack)**
 
 ### Prism Launcher
 1. Clique em **Adicionar Instância** -> **Importar**.
@@ -159,7 +159,7 @@ Consulte o arquivo [GUIA_DE_TECLAS.md](GUIA_DE_TECLAS.md) para a relação compl
 
 ## Estrutura do Repositório
 
-- `Antarchy-RPG-1.21.1-Fabric.mrpack`: Pacote pronto para distribuição e importação direta.
+- `Antarchy-RPG-1.21.1-Fabric-v1.1.0.mrpack`: Pacote pronto para distribuição e importação direta.
 - `modrinth.index.json`: Manifesto de dependências e hashes (SHA-1 / SHA-512).
 - `build_modpack.py`: Script para resolução de dependências via API do Modrinth e compilação do `.mrpack`.
 - `overrides/`: Configurações padrão injetadas na instância (`options.txt`, ajustes de combate, etc.).

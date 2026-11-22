@@ -1,5 +1,6 @@
 """Build an Antarchy RPG & Exploration Modpack (.mrpack) for Minecraft 1.21.1 Fabric via Modrinth API."""
 import json
+import re
 import sys
 import time
 import urllib.error
@@ -396,11 +397,27 @@ def main():
     manifest_summary.sort(key=lambda x: x["title"].lower())
     files_list.sort(key=lambda x: x["path"].lower())
 
+    # Determine next pack version (auto-increment patch from modrinth.index.json, or CLI arg)
+    pack_version = "1.1.0"
+    if len(sys.argv) > 1 and re.match(r"^\d+\.\d+\.\d+$", sys.argv[1]):
+        pack_version = sys.argv[1]
+    elif Path("modrinth.index.json").exists():
+        try:
+            old_ver = json.loads(Path("modrinth.index.json").read_text(encoding="utf-8")).get("versionId", "1.0.0")
+            if old_ver == "1.0.0":
+                pack_version = "1.1.0"
+            else:
+                parts = [int(x) for x in old_ver.split(".")]
+                parts[-1] += 1
+                pack_version = ".".join(str(x) for x in parts)
+        except Exception:
+            pack_version = "1.1.0"
+
     mrpack_index = {
         "formatVersion": 1,
         "game": "minecraft",
-        "versionId": "1.0.0",
-        "name": "Antarchy: Realms of Chaos (RPG & Exploration)",
+        "versionId": pack_version,
+        "name": f"Antarchy: Realms of Chaos v{pack_version}",
         "summary": "Modpack de RPG, exploração dimensional, dungeons e chefes centrado no Antarchy (1.21.1 Fabric).",
         "dependencies": {
             "minecraft": GAME_VERSION,
@@ -412,19 +429,35 @@ def main():
     Path("modrinth.index.json").write_text(json.dumps(mrpack_index, indent=2, ensure_ascii=False), encoding="utf-8")
     Path("mods_resolved.json").write_text(json.dumps(manifest_summary, indent=2, ensure_ascii=False), encoding="utf-8")
 
+    # Remove older .mrpack files so only the current versioned file remains
+    for old_pack in Path(".").glob("Antarchy-RPG-*.mrpack"):
+        old_pack.unlink()
+
     # Package .mrpack with default overrides
     def write_mrpack(target_path: Path):
         with zipfile.ZipFile(target_path, "w", compression=zipfile.ZIP_DEFLATED) as zf:
             zf.write("modrinth.index.json", "modrinth.index.json")
             overrides_dir = Path("overrides")
             if overrides_dir.exists():
-                for file_path in overrides_dir.rglob("*"):
+                for file_path in sorted(overrides_dir.rglob("*")):
                     if file_path.is_file():
                         arcname = file_path.relative_to(Path(".")).as_posix()
                         zf.write(file_path, arcname)
 
-    mrpack_path = Path("Antarchy-RPG-1.21.1-Fabric.mrpack")
+    mrpack_path = Path(f"Antarchy-RPG-{GAME_VERSION}-Fabric-v{pack_version}.mrpack")
     write_mrpack(mrpack_path)
+
+    # Keep README.md download links synchronized with the current versioned .mrpack filename
+    readme_path = Path("README.md")
+    if readme_path.exists():
+        readme_text = readme_path.read_text(encoding="utf-8")
+        updated_readme = re.sub(
+            r"Antarchy-RPG-1\.21\.1-Fabric(?:-v\d+\.\d+\.\d+)?\.mrpack",
+            mrpack_path.name,
+            readme_text,
+        )
+        if updated_readme != readme_text:
+            readme_path.write_text(updated_readme, encoding="utf-8")
 
     print(f"\nSuccessfully resolved {len(files_list)} mods and generated {mrpack_path.name}!")
 
